@@ -1,4 +1,4 @@
-import RainbowText from 'objects/RainbowText';
+import RainbowText from 'objects/Rectangle';
 
 class GameState extends Phaser.State {
 
